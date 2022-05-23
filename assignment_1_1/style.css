@@ -1,0 +1,27 @@
+.container {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+label {
+    display: block;
+    padding: 10px 20px;
+}
+
+input { 
+    display: block;
+    padding: 10px 10px;
+    margin: 10px 20px;
+}
+
+button {
+    display: block;
+    margin: 10px 20px;
+    padding: 5px 10px;
+}
+
+h2 {
+
+    margin: 10px 20px;
+}
